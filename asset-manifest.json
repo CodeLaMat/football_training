@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/football_training/static/css/main.fce99524.css",
+    "main.js": "/football_training/static/js/main.9e29b446.js",
+    "static/media/Click_sound.wav": "/football_training/static/media/Click_sound.80f01a1b0371515f5a79.wav",
+    "static/media/whistle.mp3": "/football_training/static/media/whistle.9782611418d9a2bc4663.mp3",
+    "index.html": "/football_training/index.html",
+    "main.fce99524.css.map": "/football_training/static/css/main.fce99524.css.map",
+    "main.9e29b446.js.map": "/football_training/static/js/main.9e29b446.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fce99524.css",
+    "static/js/main.9e29b446.js"
+  ]
+}
